@@ -12,7 +12,7 @@ Sound effects made in famitracker respond to player performance.
 
 Controls:
 
-"m": Generate and play ocean level.
+"m": Generate and play mine level.
 
 "o": Generate and play ocean level.
 
